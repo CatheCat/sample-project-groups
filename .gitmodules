@@ -1,0 +1,6 @@
+[submodule "sample-project-v3"]
+	path = sample-project-v3
+	url = git@github.com:CatheCat/sample-project-v3.git
+[submodule "sample-project-portal"]
+	path = sample-project-portal
+	url = git@github.com:CatheCat/sample-project-portal.git
